@@ -1,0 +1,6 @@
+Column Descriptors:
+User ID: Integer value uniquely identifying each user. (e.g., 1001, 1002)
+Gender: Categorical value indicating the gender of the user. (e.g., 'Male', 'Female')
+Age: Integer representing the age of the user. (e.g., 23, 45)
+EstimatedSalary: Float representing the estimated annual salary of the user. (e.g., 50000.00, 120000.00)
+Purchased: Binary indicator of whether the user purchased the product (1) or not (0)
